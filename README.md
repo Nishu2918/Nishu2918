@@ -25,18 +25,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula](https://github.com/users/Nishu2918/achievements/pair-extraordinaire)"/>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishu2918&show_icons=true&theme=tokyonight" alt="Nishu2918's GitHub stats" />
 </p>
 
 ---
@@ -44,5 +36,15 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nishu2918&theme=radical" alt="GitHub Streak" />
 </p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nishu2918&theme=darkhub&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
+
