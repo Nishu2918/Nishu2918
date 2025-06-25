@@ -10,11 +10,20 @@
 ### 🧑‍💻 About Me
 
 - 🎯 Passionate about backend engineering and automation
-- 🔭 Currently working on **Zoho CRM integration** using **Django**
-- 🛠️ Exploring **REST APIs**, **DevOps**, and cloud tech
-- 💬 Ask me about **Python, Django, API dev**
-- 📫 Reach me at: **nishanth@example.com**
+- 🔭 Currently working on Zoho CRM integration using Django
+- 🛠️ Exploring REST APIs, DevOps, and cloud tech
+- 💬 Ask me about Python, Django, API dev
+- 📫 Reach me at: nishanthhs8@gmail.com
 - 🧠 Always curious, always coding
+- 
+- <p align="center">
+  <a href="https://www.linkedin.com/in/nishanth-hs" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nishanthhs8@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -52,19 +61,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nishu2918&theme=darkhub&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nishanth-hs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nishanthhs8@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
