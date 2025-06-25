@@ -28,7 +28,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula"/>
+  <img src="[https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula](https://github.com/users/Nishu2918/achievements/pair-extraordinaire)"/>
 </p>
 
 ---
