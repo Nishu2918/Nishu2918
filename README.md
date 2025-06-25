@@ -2,7 +2,7 @@
 <h3 align="center">🚀 SDE Intern | Django Backend Developer | Zoho CRM Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7CFC00&size=22&center=true&vCenter=true&width=450&lines=Django+Backend+Developer;Zoho+CRM+Integration+Expert;Python+Automator;Learning+Every+Day!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=7CFC00&size=22&center=true&vCenter=true&width=450&lines=Django+Backend+Developer;Zoho+CRM+Integration;Python+Automator;Learning+Every+Day!" />
 </p>
 
 
@@ -16,6 +16,14 @@
 - 💬 Ask me about **Python, Django, API dev**
 - 📫 Reach me at: **nishanthhs8@gmail.com**
 - 🧠 Always curious, always coding
+<p align="center">
+  <a href="https://www.linkedin.com/in/nishanth-hs target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nishanthhs8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -36,17 +44,5 @@
 
 ---
 
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nishanth@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
 
 <p align="center">🧠 Passionate about building backend systems and automating tasks with Python & Django 🚀</p>
