@@ -15,8 +15,7 @@
 - 💬 Ask me about Python, Django, API dev
 - 📫 Reach me at: nishanthhs8@gmail.com
 - 🧠 Always curious, always coding
-- 
-- <p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/nishanth-hs" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
