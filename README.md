@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishanth</h1>
-<h3 align="center">🚀 SDE Intern | Django Backend Developer | Zoho CRM Automation</h3>
+<h3 align="center">🚀 Software Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=7CFC00&size=22&center=true&vCenter=true&width=450&lines=Django+Backend+Developer;Zoho+CRM+Integration;Python+Automator;Learning+Every+Day!" />
@@ -11,7 +11,6 @@
 ### 🧑‍💻 About Me
 
 - 🎯 Passionate about backend engineering and automation
-- 🔭 Currently working on **Zoho CRM integration** using **Django**
 - 🛠️ Exploring **REST APIs**, **DevOps**, and cloud tech
 - 💬 Ask me about **Python, Django, API dev**
 - 📫 Reach me at: **nishanthhs8@gmail.com**
