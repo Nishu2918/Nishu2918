@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7CFC00&size=22&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Zoho+CRM+Integration;Associate Ai Engineer!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=7CFC00&size=22&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Zoho+CRM+Integration;Associate Ai Engineer!"/>
 </p>
 
 
