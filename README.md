@@ -1,42 +1,45 @@
 <div align="center">
 
-# Hi, I'm Nishanth 👋
+<h1>Nishanth H S</h1>
+<p><strong>Software Developer &nbsp;|&nbsp; Backend Engineering &nbsp;|&nbsp; API Development &nbsp;|&nbsp; AI Integration</strong></p>
 
-**Software Developer · Backend Engineer · API Enthusiast**
+<p>
+  <a href="https://www.linkedin.com/in/nishanth-hs">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:nishanthhs8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>&nbsp;
+  <a href="https://github.com/Nishu2918">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Zoho+CRM+Integration+Specialist;Associate+AI+Engineer;Building+clean%2C+scalable+backends)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanth-hs)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nishanthhs8@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nishu2918)
+<img src="https://komarev.com/ghpvc/?username=Nishu2918&style=flat-square&color=0EA5E9&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## About Me
+## Summary
 
-I'm a backend-focused developer passionate about building reliable systems and automating complex workflows. I work primarily with **Python & Django**, and enjoy connecting things together through clean REST APIs.
-
-- 🎯 Focused on **backend engineering**, **API development**, and **Zoho CRM integration**
-- 🤖 Growing into **AI engineering** — exploring LLMs, agents, and automation pipelines
-- ☁️ Curious about **DevOps**, cloud infrastructure, and CI/CD
-- 📬 Reach me at **nishanthhs8@gmail.com**
+Backend-focused software developer with hands-on experience in **Python**, **Django**, and **REST API development**. Specialized in **Zoho CRM integrations** and workflow automation. Currently expanding into **AI engineering** — building systems that bridge traditional backend architecture with modern LLM-based tooling. Committed to writing clean, maintainable code and delivering production-ready solutions.
 
 ---
 
-## 🧠 Currently Learning
+## Core Competencies
 
-| Area | What I'm Exploring |
+| Domain | Skills |
 |---|---|
-| ☁️ Cloud & DevOps | AWS basics, Docker, GitHub Actions |
-| 🤖 AI Engineering | LLM APIs, LangChain, prompt engineering |
-| 🔗 System Design | Scalable APIs, caching, async patterns |
-| 🐘 Databases | PostgreSQL optimization, Redis |
+| **Backend Development** | Python, Django, REST APIs, Celery, PostgreSQL |
+| **Frontend** | React, HTML5, CSS3, Bootstrap, TypeScript |
+| **CRM & Integrations** | Zoho CRM, Webhook Automation, Lead Sync Pipelines |
+| **AI & Automation** | LLM APIs, LangChain, Prompt Engineering |
+| **DevOps & Tools** | Git, GitHub, Linux, Docker (learning), GitHub Actions |
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 **Languages**
 
@@ -53,52 +56,57 @@ I'm a backend-focused developer passionate about building reliable systems and a
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Tools & Platforms**
+**Databases & Tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## Selected Projects
 
-### 🔗 Zoho CRM Integration Suite
-> REST API integration layer connecting internal business tools with Zoho CRM — handling lead sync, webhook events, and automated workflows.
+### Zoho CRM Integration Suite
+A production-grade REST API integration layer that synchronizes internal business data with Zoho CRM. Handles lead ingestion, webhook event processing, and automated workflow triggers with error handling and retry logic.
 
-`Python` `Django` `REST APIs` `Zoho CRM`
-
----
-
-### 🤖 Task Automation Pipeline
-> Backend automation system that reduces manual data-entry overhead by orchestrating scheduled jobs and API calls.
-
-`Python` `Django` `PostgreSQL` `Celery`
+**Stack:** `Python` `Django` `Zoho CRM API` `REST` `PostgreSQL`
 
 ---
 
-### 🌐 Full Stack Web App
-> End-to-end web application with a React frontend, Django REST backend, and PostgreSQL database.
+### Task Automation Pipeline
+Backend automation system designed to eliminate repetitive manual processes. Orchestrates scheduled jobs via Celery, manages async task queues, and integrates with third-party APIs to reduce operational overhead.
 
-`React` `Django` `PostgreSQL` `Bootstrap`
-
----
-
-> 💡 *More projects coming soon — check back or explore pinned repos below.*
+**Stack:** `Python` `Django` `Celery` `PostgreSQL` `Redis`
 
 ---
 
-## 📊 GitHub Stats
+### Full Stack Web Application
+End-to-end web application featuring a React frontend communicating with a Django REST Framework backend. Includes JWT authentication, role-based access control, and a normalized PostgreSQL schema.
+
+**Stack:** `React` `TypeScript` `Django REST Framework` `PostgreSQL` `Bootstrap`
+
+---
+
+## Currently Learning
+
+- **Cloud & DevOps** — AWS (EC2, S3, RDS), Docker, GitHub Actions CI/CD
+- **AI Engineering** — LLM APIs, LangChain, Retrieval-Augmented Generation (RAG)
+- **System Design** — Distributed systems, caching strategies, async architecture
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishu2918&show_icons=true&theme=default&hide_border=true&title_color=0EA5E9&icon_color=0EA5E9&text_color=374151&bg_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api?username=Nishu2918&show_icons=true&hide_border=true&title_color=0EA5E9&icon_color=0EA5E9&text_color=374151&bg_color=ffffff&rank_icon=github" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishu2918&layout=compact&hide_border=true&title_color=0EA5E9&text_color=374151&bg_color=ffffff" height="165"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishu2918&layout=compact&theme=default&hide_border=true&title_color=0EA5E9&text_color=374151&bg_color=ffffff)
+<br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Nishu2918&theme=default&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9)
+<img src="https://streak-stats.demolab.com?user=Nishu2918&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=374151&dates=374151" height="150"/>
 
 </div>
 
@@ -106,7 +114,8 @@ I'm a backend-focused developer passionate about building reliable systems and a
 
 <div align="center">
 
-*Passionate about building backend systems and automating tasks with Python & Django.*
-**Open to collaborations, freelance work, and interesting problems. Let's connect!**
+**Open to full-time roles, freelance projects, and meaningful collaborations.**
+<br/>
+<a href="mailto:nishanthhs8@gmail.com">nishanthhs8@gmail.com</a>
 
 </div>
