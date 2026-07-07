@@ -1,6 +1,3 @@
-Here you go — full code, just copy and paste into your `README.md`:
-
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=180&section=header&text=Nishanth%20H%20S&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20•%20Python%20%26%20Django%20•%20AI%20Integration&descSize=16&descAlignY=58&descColor=e2e8f0&animation=twinkling" width="100%"/>
@@ -323,6 +320,3 @@ React + Django REST Framework application with JWT authentication, role-based ac
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
-```
-
-Just paste this into your `Nishu2918/Nishu2918` repo's `README.md` and you're good to go! 🚀
