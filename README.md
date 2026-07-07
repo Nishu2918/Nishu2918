@@ -1,100 +1,79 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=header&text=Nishanth%20H%20S&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Backend%20Engineer%20%7C%20Python%20%26%20Django%20%7C%20AI%20Engineering&descSize=14&descAlignY=70&descColor=bae6fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12&height=160&section=header&text=Nishanth%20H%20S&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Associate%20AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20LLM%20Systems&descSize=15&descAlignY=62&descColor=e6c98a&animation=fadeIn" width="100%"/>
 
 </div>
-
-<br/>
-
-```python
-class NishanthHS:
-    name     = "Nishanth H S"
-    role     = "Software Developer — Backend & API Engineering"
-    focus    = ["Python", "Django", "REST APIs", "Zoho CRM", "AI Integration"]
-    email    = "nishanthhs8@gmail.com"
-    status   = "Open to roles · Freelance · Collaboration"
-    location = "India"
-```
-
-<br/>
-
-> Backend-focused developer specialising in **Python/Django** systems and **Zoho CRM integrations**.
-> I build reliable APIs, automate complex workflows, and connect **LLMs with real-world backend infrastructure**.
 
 <br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanth-hs)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishanthhs8@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nishu2918)
-![Profile Views](https://komarev.com/ghpvc/?username=Nishu2918&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)
+<pre>
+<code>const nishanth = {
+  role       : "Associate AI Engineer & Full-Stack Developer @ Sash.AI",
+  focus      : ["LangChain", "LangGraph", "RAG Pipelines", "n8n", "Agentic Workflows"],
+  builds     : ["FastAPI", "Django", "React.js", "Vue.js"],
+  ships_on   : ["GCP", "Azure", "Docker"],
+  status     : "Building agents, shipping products, always graphing something"
+};</code>
+</pre>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=E8A33D)](https://www.linkedin.com/in/nishanth-hs)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=8B5CF6)](https://github.com/Nishu2918)
+[![Gmail](https://img.shields.io/badge/Gmail-0a0a0f?style=for-the-badge&logo=gmail&logoColor=E8A33D)](mailto:nishanthhs8@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Nishu2918&style=for-the-badge&color=0a0a0f&label=PROFILE+VIEWS&labelColor=8B5CF6)
 
 </div>
 
 ---
 
+## ⚡ What I Work On
+
+I build LLM-powered pipelines, intelligent agent workflows, and production web apps for enterprise clients — taking systems from prototype to deployed product.
+
+**Recent work:**
+- 🤖 **AgentSpace** — AI agent builder platform for Albertsons' Innovation & Development Centre
+- 💬 **ChatHub** — Enterprise AI chat platform for Albertsons
+- ⚖️ **Lexora** — Production SaaS practice management platform for a law firm client, with VLM-based OCR, FastAPI backend, and Azure deployment
+
+---
+
 ## 🛠 Tech Stack
 
-**Languages**
+**AI / LLM Engineering**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0a0a0f?style=flat-square&logo=langchain&logoColor=E8A33D)
+![LangGraph](https://img.shields.io/badge/LangGraph-0a0a0f?style=flat-square&logo=graphql&logoColor=8B5CF6)
+![n8n](https://img.shields.io/badge/n8n-0a0a0f?style=flat-square&logo=n8n&logoColor=E8A33D)
+![OpenAI](https://img.shields.io/badge/OpenAI-0a0a0f?style=flat-square&logo=openai&logoColor=8B5CF6)
+![Ollama](https://img.shields.io/badge/Ollama-0a0a0f?style=flat-square&logo=ollama&logoColor=E8A33D)
 
-**Frameworks & Libraries**
+**Backend**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=E8A33D)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0f?style=flat-square&logo=fastapi&logoColor=8B5CF6)
+![Django](https://img.shields.io/badge/Django-0a0a0f?style=flat-square&logo=django&logoColor=E8A33D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0f?style=flat-square&logo=postgresql&logoColor=8B5CF6)
 
-**Databases & Infrastructure**
+**Frontend**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![React](https://img.shields.io/badge/React-0a0a0f?style=flat-square&logo=react&logoColor=E8A33D)
+![Vue.js](https://img.shields.io/badge/Vue.js-0a0a0f?style=flat-square&logo=vuedotjs&logoColor=8B5CF6)
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0f?style=flat-square&logo=nextdotjs&logoColor=E8A33D)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0a0a0f?style=flat-square&logo=tailwindcss&logoColor=8B5CF6)
 
-**Integrations & Tools**
+**Infra & Deployment**
 
-![Zoho CRM](https://img.shields.io/badge/Zoho_CRM-E42527?style=flat-square&logo=zoho&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-**AI & Automation** *(currently learning)*
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
----
-
-## 🚀 Projects
-
-### `zoho-crm-integration-suite`
-Production REST API layer syncing internal business data with Zoho CRM — lead ingestion, webhook handling, automated triggers, retry logic, and full audit trail.
-
-`Python` `Django` `Zoho API` `PostgreSQL` `REST`
-
----
-
-### `task-automation-pipeline`
-Async job orchestration system using Celery that eliminates manual data-entry overhead, integrates third-party APIs, and manages task queues with Redis.
-
-`Python` `Django` `Celery` `Redis` `PostgreSQL`
-
----
-
-### `fullstack-web-app`
-React + Django REST Framework application with JWT authentication, role-based access control, and a normalised PostgreSQL schema.
-
-`React` `TypeScript` `DRF` `PostgreSQL` `Bootstrap`
+![GCP](https://img.shields.io/badge/GCP-0a0a0f?style=flat-square&logo=googlecloud&logoColor=E8A33D)
+![Azure](https://img.shields.io/badge/Azure-0a0a0f?style=flat-square&logo=microsoftazure&logoColor=8B5CF6)
+![Docker](https://img.shields.io/badge/Docker-0a0a0f?style=flat-square&logo=docker&logoColor=E8A33D)
+![Git](https://img.shields.io/badge/Git-0a0a0f?style=flat-square&logo=git&logoColor=8B5CF6)
 
 ---
 
@@ -102,37 +81,24 @@ React + Django REST Framework application with JWT authentication, role-based ac
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nishu2918&show_icons=true&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=374151&bg_color=f8fafc&rank_icon=github&include_all_commits=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nishu2918&show_icons=true&hide_border=true&title_color=E8A33D&icon_color=8B5CF6&text_color=c9c9d9&bg_color=0a0a0f&rank_icon=github&include_all_commits=true" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishu2918&layout=compact&hide_border=true&title_color=0ea5e9&text_color=374151&bg_color=f8fafc" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishu2918&layout=compact&hide_border=true&title_color=E8A33D&text_color=c9c9d9&bg_color=0a0a0f" height="165"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Nishu2918&hide_border=true&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=6b7280&dates=9ca3af" height="145"/>
+<img src="https://streak-stats.demolab.com?user=Nishu2918&hide_border=true&background=0a0a0f&ring=E8A33D&fire=8B5CF6&currStreakLabel=E8A33D&sideLabels=c9c9d9&dates=8b8b9a" height="145"/>
 
 </div>
 
 ---
 
-## 📚 Currently Learning
-
-| Topic | Status |
-|---|---|
-| AWS — EC2, S3, RDS, IAM | 🟢 Active |
-| Docker & containerisation | 🟢 Active |
-| LangChain & RAG pipelines | 🟢 Active |
-| GitHub Actions — CI/CD | 🟢 Active |
-| System design — distributed systems | 🔵 Queued |
-| Kubernetes basics | 🔵 Queued |
-
----
-
 <div align="center">
 
-**Always building. Always learning. Always shipping.**
+**Building agents. Shipping products. Always connecting the graph.**
 
-📬 [nishanthhs8@gmail.com](mailto:nishanthhs8@gmail.com) · Open to full-time roles · Freelance · Collaboration
+📬 [nishanthhs8@gmail.com](mailto:nishanthhs8@gmail.com) · [linkedin.com/in/nishanth-hs](https://www.linkedin.com/in/nishanth-hs)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12&height=100&section=footer"/>
 
 </div>
